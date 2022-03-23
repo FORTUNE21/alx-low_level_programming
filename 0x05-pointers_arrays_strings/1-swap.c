@@ -8,15 +8,13 @@
  * @b: pointer with the address value
  *
  * Return: void
- *
  */
 
- void swap_int(int *a, int *b)
+void swap_int(int *a, int *b)
 {
 	int i;
 
 	i = *a;
-       *a = *b;
-        *b = i;
+	*a = *b;
+	*b = i;
 }
-

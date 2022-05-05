@@ -171,4 +171,4 @@ int main(int argc, char *argv[])
 				put_err("it has the wrong magic bytes at the start\n"), 98);
 
 	print_elf_header(header32);
-
+}

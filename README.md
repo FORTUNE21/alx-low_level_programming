@@ -1,1 +1,1 @@
-ALX learning low level programming
+ This directory is for C programs
